@@ -29,10 +29,9 @@ def main() -> None:
     """Run the name-age program."""
 
     # Get user input.
-    # TODO: Replace with code to get user's name as a string. See zyBooks 1.3.
-    # TODO: Replace with code to get user's age as an integer. See zyBooks 2.6.
-
-    # Calculate user's approximate birth year.
+    # TODO: user_name= input("what is your nake")
+    # TODO: user_age= input("how old are you?")
+    # birth_year= print("
     # TODO: Replace with code to process data. See zyBooks 1.16 & 1.17.
 
     # Output personalized message with user's name and birth year.
@@ -45,5 +44,5 @@ if __name__ == "__main__":
 
 
 # === References ===
-# TODO: Replace with an APA-style reference for a source you used, or delete.
-# TODO: Replace with another APA-style reference, or delete this TODO line.
+# TODO: 
+# TODO: 
